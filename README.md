@@ -36,7 +36,7 @@ You will need [Ready to Program's](http://compsci.ca/holtsoft/) HSA libraries to
 You can run the software directly from Ready to Program's IDE.
 
 ## Acknowledgements
-Thanks to Ken Perlin for making Simplex noise and for someone (presumably Reimer Grootjans) for teaching me how to use it!
+Thanks to Ken Perlin for making Simplex noise and for someone (presumably Reimer Grootjans) for writing an online guide that taught me how to use it!
 
 http://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf
 
