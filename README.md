@@ -24,4 +24,4 @@ Implementing Simplex noise was well, not exactly pretty.
 
 ![House part render code](img/code-house-parts.png)
 
-Email me if you want the source code!
+Email me if you want the full source code!
