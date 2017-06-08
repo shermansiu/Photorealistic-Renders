@@ -32,3 +32,8 @@ But looking back, some of the method names are a bit eccentric.
 Email me if you want the full source code!
 
 You will need [Ready to Program's](http://compsci.ca/holtsoft/) HSA libraries to run the software.
+
+## Sources
+[http://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf]
+[http://mrl.nyu.edu/~perlin/flownoise-talk/]
+[http://www.riemers.net/eng/Tutorials/XNA/Csharp/Series4/Perlin_noise.php]
