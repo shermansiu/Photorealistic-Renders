@@ -1,5 +1,5 @@
 # Photorealistic-Renders
-Photorealistic Java renders of a house and a moon.
+Photorealistic Java renders of a house and the Toronto skyline at night.
 
 ## Screenshots
 
