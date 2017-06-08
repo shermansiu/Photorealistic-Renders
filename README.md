@@ -13,4 +13,15 @@ I also made an image of the night-time skyline of Toronto with an abnormally lar
 
 ![Photorealsitic moon](img/moon.png)
 
+
+## Source code
+
+Implementing Simplex noise was well, not exactly pretty.
+
+![Cloud Simplex noise code](img/code-simplex.png)
+
+`fillOrthogonalWall`? `fillOrthogonalHPlane`? Why???
+
+![House part render code](img/code-house-parts.png)
+
 Email me if you want the source code!
