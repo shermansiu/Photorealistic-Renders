@@ -33,7 +33,9 @@ Email me if you want the full source code!
 
 You will need [Ready to Program's](http://compsci.ca/holtsoft/) HSA libraries to run the software.
 
-## Sources
+## Acknowledgements
+Thanks to Ken Perlin for making Simplex noise and for someone (presumably Reimer Grootjans) for teaching me how to use it!
+
 http://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf
 
 http://mrl.nyu.edu/~perlin/flownoise-talk/
