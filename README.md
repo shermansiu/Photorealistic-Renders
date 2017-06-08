@@ -20,6 +20,9 @@ Implementing Simplex noise was well, not exactly pretty.
 
 ![Cloud Simplex noise code](img/code-simplex.png)
 
+Writing the library functions to render the house in two-point perspective was quite fun at the time.
+But looking back, some of the method names are a bit eccentric.
+
 `fillOrthogonalWall`? `fillOrthogonalHPlane`? Why???
 
 ![House part render code](img/code-house-parts.png)
