@@ -46,4 +46,5 @@ http://www.riemers.net/eng/Tutorials/XNA/Csharp/Series4/Perlin_noise.php
 
 ### Photo credits
 Moon: Jennifer Rose Lane ([on Space.com](https://www.space.com/21327-full-moon-jupiter-mercury-venus-photos-may-2013.html))
+
 Toronto skyline: Frank Lusi
