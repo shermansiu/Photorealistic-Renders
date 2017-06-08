@@ -24,4 +24,8 @@ Implementing Simplex noise was well, not exactly pretty.
 
 ![House part render code](img/code-house-parts.png)
 
+### Installation
+
 Email me if you want the full source code!
+
+You will need [Ready to Program's](http://compsci.ca/holtsoft/) HSA libraries to run the software.
