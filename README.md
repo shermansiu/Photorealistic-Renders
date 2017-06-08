@@ -31,7 +31,9 @@ But looking back, some of the method names are a bit eccentric.
 
 Email me if you want the full source code!
 
-You will need [Ready to Program's](http://compsci.ca/holtsoft/) HSA libraries to run the software.
+You will need [Ready to Program's](http://compsci.ca/holtsoft/) HSA libraries to run the software. 
+
+You can run the software directly from Ready to Program's IDE.
 
 ## Acknowledgements
 Thanks to Ken Perlin for making Simplex noise and for someone (presumably Reimer Grootjans) for teaching me how to use it!
