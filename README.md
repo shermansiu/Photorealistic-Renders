@@ -1,6 +1,8 @@
 # Photorealistic-Renders
 Photorealistic Java renders of a house and the Toronto skyline at night.
 
+This project was initiated and completed in September 2013.
+
 ## Screenshots
 
 Using a Java Simplex noise library, I created these two renders in Java. 
